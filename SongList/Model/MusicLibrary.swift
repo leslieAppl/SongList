@@ -28,7 +28,7 @@ extension MusicLibrary {
         let song2 = Song(title: "Come Together", artist: "The Beatles", album: "Abbey Road", year: "1969", albumCover: #imageLiteral(resourceName: "Abbey Road"))
         let song3 = Song(title: "Billie Jean", artist: "Michael Jackson", album: "Triller", year: "1983", albumCover: #imageLiteral(resourceName: "Thriller"))
         let song4 = Song(title: "Bohemina Rhapsody", artist: "Queen", album: "A Night At the Opera", year: "1975", albumCover: #imageLiteral(resourceName: "A Night at the Opera"))
-        let song5 = Song(title: "Sweet Child O'Mine", artist: "Guns N' Roses", album: "Appetite for Destruction", year: "1975", albumCover: #imageLiteral(resourceName: "Appetite for destruction"))
+        let song5 = Song(title: "Sweet Child O'Mine", artist: "Guns N' Roses", album: "Appetite for Destruction", year: "1975", albumCover: #imageLiteral(resourceName: "Appetite for Destruction"))
         let song6 = Song(title: "Hotel California", artist: "The Eagles", album: "Hotel California", year: "1988", albumCover: #imageLiteral(resourceName: "Hotel California"))
         let song7 = Song(title: "Born to Run", artist: "Bruce Springsteen", album: "Born to Run", year: "1975", albumCover: #imageLiteral(resourceName: "Born to Run"))
         let song8 = Song(title: "No Woman No Cry", artist: "Bob Marley", album: "Live!", year: "1975", albumCover: #imageLiteral(resourceName: "Live"))

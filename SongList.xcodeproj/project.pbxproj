@@ -66,7 +66,7 @@
 		CE43F802240B639600F5CEC7 /* SongList */ = {
 			isa = PBXGroup;
 			children = (
-				CE43F819240B646F00F5CEC7 /* Modle */,
+				CE43F819240B646F00F5CEC7 /* Model */,
 				CE43F818240B646900F5CEC7 /* View */,
 				CE43F817240B646200F5CEC7 /* Controller */,
 				CE43F803240B639600F5CEC7 /* AppDelegate.swift */,
@@ -97,13 +97,13 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		CE43F819240B646F00F5CEC7 /* Modle */ = {
+		CE43F819240B646F00F5CEC7 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				CE43F81A240B65F300F5CEC7 /* Song.swift */,
 				CE43F81C240B663800F5CEC7 /* MusicLibrary.swift */,
 			);
-			path = Modle;
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
